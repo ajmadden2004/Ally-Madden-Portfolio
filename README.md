@@ -26,10 +26,6 @@ Assignments, data cleaning scripts, and analysis notebooks.
 Repo: [r-statistics-and-analysis](link-here)
 RMarkdown files, ggplot visualizations, and regression projects.
 
-### 5. Project Management Artifacts
-Repo: [project-management-artifacts](link-here)
-Gantt charts, charters, risk registers, and stakeholder analyses.
-
 ## 🎯 What I'm Working On
 - Expanding my capstone chatbot project  
 - Building a SQL + Python analytics portfolio  
