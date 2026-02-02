@@ -23,7 +23,9 @@ Data analysis • Process management • Documentation • Problem solving • C
 
 ### 1. Capstone Azure GPT Chatbot  
 **Repo:** [capstone-azure-gpt-chatbot](https://github.com/ajmadden2004/capstone-azure-gpt-chatbot)  
-AI assistant built using Azure OpenAI to support student or business workflows.  
+
+The Student AI Agent is a university-wide initiative to expand the FlyerGPT platform with a student-facing AI assistant that consolidates essential academic and campus information into one conversational interface. The project integrates four major data sources—Academic Calendar, Course Catalog, Campus Map, and Student Services Directory—using a combination of public web data, SQL-backed authenticated data, and API-driven retrieval. Built within the University of Dayton’s internal AI infrastructure, the agent reduces repetitive inquiries handled by staff and gives students faster, more intuitive access to the information they need. This project demonstrates applied AI agent design, data engineering, and system integration within a real university environment.
+
 **Includes:**  
 - Prompt engineering documentation  
 - Architecture diagrams  
@@ -47,7 +49,9 @@ End‑to‑end data engineering project pulling PGA data from an API, storing it
 -->
 ### 2. Python Coursework & Analysis Portfolio  
 **Repo:** [python-coursework-and-projects](https://github.com/ajmadden2004/python-coursework-and-projects)  
+
 A collection of Python assignments and projects demonstrating data cleaning, analysis, and visualization.  
+
 **Includes:**  
 - Pandas data analysis notebooks  
 - Data cleaning workflows  
