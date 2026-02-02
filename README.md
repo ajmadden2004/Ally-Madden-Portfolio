@@ -88,6 +88,10 @@ Recommended items to include:
 ---
 
 ## Quick Links
+- **LinkedIn:** https://linkedin.com/in/ally-madden
+
+  <!--   
 - **Portfolio Repo (this page):** https://github.com/ajmadden2004/ally-portfolio  
-- **LinkedIn:** https://linkedin.com/in/ally-madden  
-- **GitHub Profile:** https://github.com/ajmadden2004  
+- **GitHub Profile:** https://github.com/ajmadden2004
+
+-->
