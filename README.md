@@ -29,7 +29,6 @@ The Student AI Agent is a university-wide initiative to expand the FlyerGPT plat
 **Includes:**  
 - Prompt engineering documentation  
 - Architecture diagrams  
-- Python/Azure code  
 - Use‑case explanations  
 - Demo examples  
 
@@ -47,7 +46,20 @@ End‑to‑end data engineering project pulling PGA data from an API, storing it
 
 ---
 -->
-### 2. Python Coursework & Analysis Portfolio  
+### 2. SQL Coursework & Query Portfolio  
+**Repo:** [sql-coursework-portfolio](https://github.com/ajmadden2004/sql-coursework-portfolio)  
+A curated collection of SQL assignments and projects demonstrating foundational and intermediate database skills.  
+**Includes:**  
+- Complex joins, subqueries, and window functions  
+- Data cleaning and transformation queries  
+- Case studies using real‑world business scenarios  
+- ERD diagrams and schema design  
+- Query optimization examples  
+- Practice datasets and documentation  
+
+---
+
+### 3. Python Coursework & Analysis Portfolio  
 **Repo:** [python-coursework-and-projects](https://github.com/ajmadden2004/python-coursework-and-projects)  
 
 A collection of Python assignments and projects demonstrating data cleaning, analysis, and visualization.  
@@ -81,6 +93,7 @@ Recommended items to include:
 
 ---
 -->
+
 ## What I’m Working On
 - Expanding my Azure GPT chatbot with improved prompt workflows  
 - Building a SQL + Python analytics portfolio
