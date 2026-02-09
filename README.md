@@ -33,7 +33,7 @@ The Student AI Agent is a university-wide initiative to expand the FlyerGPT plat
 - Demo examples  
 
 ---
-<!-- 
+
 ### 2. PGA Data Pipeline (API → Database → BI Dashboard)  
 **Repo:** [pga-data-pipeline](https://github.com/ajmadden2004/pga-data-pipeline)  
 End‑to‑end data engineering project pulling PGA data from an API, storing it in a database, transforming it, and visualizing insights in BI tools.  
@@ -45,7 +45,7 @@ End‑to‑end data engineering project pulling PGA data from an API, storing it
 - Documentation of pipeline architecture  
 
 ---
--->
+
 ### 2. SQL Coursework & Query Portfolio  
 **Repo:** [sql-coursework-portfolio](https://github.com/ajmadden2004/sql-coursework-portfolio)  
 A curated collection of SQL assignments and projects demonstrating foundational and intermediate database skills.  
