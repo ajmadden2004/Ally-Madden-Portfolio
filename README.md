@@ -46,7 +46,7 @@ End‑to‑end data engineering project pulling PGA data from an API, storing it
 
 ---
 
-### 2. SQL Coursework & Query Portfolio  
+### 3. SQL Coursework & Query Portfolio  
 **Repo:** [sql-coursework-portfolio](https://github.com/ajmadden2004/sql-coursework-portfolio)  
 A curated collection of SQL assignments and projects demonstrating foundational and intermediate database skills.  
 **Includes:**  
@@ -59,7 +59,7 @@ A curated collection of SQL assignments and projects demonstrating foundational 
 
 ---
 
-### 3. Python Coursework & Analysis Portfolio  
+### 4. Python Coursework & Analysis Portfolio  
 **Repo:** [python-coursework-and-projects](https://github.com/ajmadden2004/python-coursework-and-projects)  
 
 A collection of Python assignments and projects demonstrating data cleaning, analysis, and visualization.  
