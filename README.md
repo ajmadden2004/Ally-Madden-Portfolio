@@ -96,7 +96,6 @@ Recommended items to include:
 
 ## What I’m Working On
 - Expanding my Azure GPT chatbot with improved prompt workflows  
-- Building a SQL + Python analytics portfolio
 
 <!--   
 - Documenting prompt engineering experiments  
