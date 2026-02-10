@@ -71,8 +71,8 @@ A collection of Python assignments and projects demonstrating data cleaning, ana
 - Final project write‑ups  
 
 ---
-<!-- 
-### 4. R Statistical Analysis Portfolio  
+ 
+### 5. R Statistical Analysis Portfolio  
 **Repo:** [r-statistics-and-analysis](https://github.com/ajmadden2004/r-statistics-and-analysis)  
 Statistical modeling and visualization work completed in R and RStudio.  
 **Includes:**  
@@ -82,7 +82,7 @@ Statistical modeling and visualization work completed in R and RStudio.
 - Coursework summaries  
 
 ---
-
+<!-- 
 ## 🖼 Screenshots & Diagrams
 *(Add these once your repos are populated — GitHub will automatically display them.)*  
 Recommended items to include:
