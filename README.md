@@ -95,7 +95,8 @@ Recommended items to include:
 -->
 
 ## What I’m Working On
-- Expanding my Azure GPT chatbot with improved prompt workflows  
+- Expanding my Azure GPT chatbot with improved prompt workflows
+- Developing my PGA Data Pipeline  
 
 <!--   
 - Documenting prompt engineering experiments  
