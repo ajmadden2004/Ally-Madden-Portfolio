@@ -81,7 +81,6 @@ Statistical modeling and visualization work completed in R and RStudio.
 - Regression and statistical modeling  
 - Coursework summaries  
 
----
 <!-- 
 ## 🖼 Screenshots & Diagrams
 *(Add these once your repos are populated — GitHub will automatically display them.)*  
