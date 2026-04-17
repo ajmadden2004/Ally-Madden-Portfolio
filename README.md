@@ -33,7 +33,7 @@ The Student AI Agent is a university-wide initiative to expand the FlyerGPT plat
 - Demo examples  
 
 ---
-
+<!-- 
 ### 2. PGA Data Pipeline (API → Database → BI Dashboard)  
 **Repo:** [pga-data-pipeline](https://github.com/ajmadden2004/pga-data-pipeline)  
 End‑to‑end data engineering project pulling PGA data from an API, storing it in a database, transforming it, and visualizing insights in BI tools.  
@@ -45,8 +45,8 @@ End‑to‑end data engineering project pulling PGA data from an API, storing it
 - Documentation of pipeline architecture  
 
 ---
-
-### 3. SQL Coursework & Query Portfolio  
+-->
+### 2. SQL Coursework & Query Portfolio  
 **Repo:** [sql-coursework-portfolio](https://github.com/ajmadden2004/sql-coursework-portfolio)  
 A curated collection of SQL assignments and projects demonstrating foundational and intermediate database skills.  
 **Includes:**  
@@ -59,7 +59,7 @@ A curated collection of SQL assignments and projects demonstrating foundational 
 
 ---
 
-### 4. Python Coursework & Analysis Portfolio  
+### 3. Python Coursework & Analysis Portfolio  
 **Repo:** [python-coursework-and-projects](https://github.com/ajmadden2004/python-coursework-and-projects)  
 
 A collection of Python assignments and projects demonstrating data cleaning, analysis, and visualization.  
@@ -72,7 +72,7 @@ A collection of Python assignments and projects demonstrating data cleaning, ana
 
 ---
  
-### 5. R Statistical Analysis Portfolio  
+### 4. R Statistical Analysis Portfolio  
 **Repo:** [r-statistics-and-analysis](https://github.com/ajmadden2004/r-statistics-and-analysis)  
 Statistical modeling and visualization work completed in R and RStudio.  
 **Includes:**  
@@ -92,12 +92,12 @@ Recommended items to include:
 - Python/R visualization outputs 
 
 ---
--->
+
 
 ## What I’m Working On
 - Expanding my Azure GPT chatbot with improved prompt workflows
 - Developing my PGA Data Pipeline  
-
+-->
 <!--   
 - Documenting prompt engineering experiments  
 - Enhancing my PGA data pipeline with automation and monitoring  
